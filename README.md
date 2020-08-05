@@ -18,13 +18,7 @@ ___
 
 <img width="1122" alt="Screen Shot 2020-08-05 at 14 19 20" src="https://user-images.githubusercontent.com/9547354/89443753-1d178b00-d727-11ea-85cb-88919900fbdb.png">
 
-<p align="center">
-<img width="350" alt="Screen Shot 2020-08-05 at 14 20 03" src="https://user-images.githubusercontent.com/9547354/89443743-18eb6d80-d727-11ea-943b-4df589f3c1fe.png"> <img width="350" alt="Screen Shot 2020-08-05 at 14 19 45" src="https://user-images.githubusercontent.com/9547354/89443752-1c7ef480-d727-11ea-86c9-c0e529cb0b6a.png">
-</p>
-
-
-
-## :question: What is ecoleta?
+## What is ecoleta?
 
 <b>Ecoleta</b> aims to connect companies that provide waste collection, transfer and disposal to individuals looking to discard the waste they produce in a safe and eco-conscious manner.
 
