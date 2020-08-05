@@ -24,7 +24,7 @@ ___
 
 ## :japanese_ogre: Demo Web
 
-[Visit ecoleta official website](https://ecoleta-oficial.netlify.app/)
+[Visit official website](https://ecoleta-oficial.netlify.app/)
 
 ## :computer: Tecnologies used
 
