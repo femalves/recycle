@@ -13,24 +13,25 @@
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/femalves/recycle?style=flat-square" />
 </p>
 
+___
 <br>
 
-### :question: What is ecoleta?
+## :question: What is ecoleta?
 
 <b>Ecoleta</b> aims to connect companies that provide waste collection, transfer and disposal to individuals looking to discard the waste they produce in a safe and eco-conscious manner.
 
-### 💻 Demo Web
+## :japanese_ogre: Demo Web
 
-[Visit](https://ecoleta-oficial.netlify.app/)
+[Visit ecoleta official website](https://ecoleta-oficial.netlify.app/)
 
-### :computer: Tecnologies used
+## :computer: Tecnologies used
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-#### :books: Main Libs
+### :books: Main Libs
 
 - [Express](https://expressjs.com/pt-br/)
 - [Axios](https://github.com/axios/axios)
@@ -40,14 +41,14 @@
 - [SQLite3](https://www.sqlite.org/index.html)
 - [Celebrate](https://github.com/arb/celebrate)
 
-#### :nail_care: Styling
+### :nail_care: Styling
 
 - [EditorConfig](https://editorconfig.org/)
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
 
-### :runner: How to run
+## :runner: How to run
 
 <b> Always start by the backend, as it is necessary to run the frontend.</b>
 
@@ -57,7 +58,7 @@ Before you start, make sure to install git and node.js if you don't already have
 
 <b>[Node.js](https://nodejs.org/en/)</b>
 
-#### :point_up_2: Backend
+### :point_up_2: Backend
 
 ```bash
 
@@ -79,7 +80,7 @@ $ npm run dev
 # Go to http://localhost:3333/items
 ```
 
-#### :point_up: Frontend
+### :point_up: Frontend
 
 ```bash
 # Clone this repository
@@ -100,7 +101,7 @@ $ npm start ou yarn start
 # Go to http://localhost:3000
 ```
 
-### :memo: License
+## :memo: License
 
 [MIT](LICENSE)
 
