@@ -1,6 +1,3 @@
-<h4 align="center">
-<img src=".github/logo.png" width="250px" /><br>
-</h4>
 <p align="center">
 
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/femalves/recycle?style=flat-square" />
@@ -18,7 +15,7 @@
 
 <br>
 
-### What is ecoleta?
+### :question: What is ecoleta?
 
 <b>Ecoleta</b> aims to connect companies that provide waste collection, transfer and disposal to individuals looking to discard the waste they produce in a safe and eco-conscious manner.
 
@@ -33,25 +30,24 @@
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-#### :books: Other libraries
+#### :books: Main Libs
 
-- Main Libs
-  - [Express](https://expressjs.com/pt-br/)
-  - [Axios](https://github.com/axios/axios)
-  - [Leaflet](https://leafletjs.com/)
-  - [Multer](https://github.com/expressjs/multer)
-  - [KnexJS](http://knexjs.org/)
-  - [SQLite3](https://www.sqlite.org/index.html)
-  - [Celebrate](https://github.com/arb/celebrate)
+- [Express](https://expressjs.com/pt-br/)
+- [Axios](https://github.com/axios/axios)
+- [Leaflet](https://leafletjs.com/)
+- [Multer](https://github.com/expressjs/multer)
+- [KnexJS](http://knexjs.org/)
+- [SQLite3](https://www.sqlite.org/index.html)
+- [Celebrate](https://github.com/arb/celebrate)
 
-- Styling
+#### :nail_care: Styling
 
-  - [EditorConfig](https://editorconfig.org/)
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
+- [EditorConfig](https://editorconfig.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 
-### ⚙ How to run
+### :runner: How to run
 
 <b> Always start by the backend, as it is necessary to run the frontend.</b>
 
@@ -61,7 +57,7 @@ Before you start, make sure to install git and node.js if you don't already have
 
 <b>[Node.js](https://nodejs.org/en/)</b>
 
-#### :computer: Backend
+#### :point_up_2: Backend
 
 ```bash
 
@@ -83,7 +79,7 @@ $ npm run dev
 # Go to http://localhost:3333/items
 ```
 
-#### :computer: Frontend
+#### :point_up: Frontend
 
 ```bash
 # Clone this repository
